@@ -1,4 +1,4 @@
-### Olá! Meu no é Fabrício Castro 👋
+### Olá! Meu nome é Fabrício Castro 👋
 
 Atualmente estou estudando para ser torna um desenvolver Full Stack, amo ser programar e tecnologia, Busco por uma oportunidade.
 
