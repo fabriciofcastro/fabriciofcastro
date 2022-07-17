@@ -1,15 +1,15 @@
-### Olá! Meu nome é Fabrício Castro 👋
-
-Atualmente estou estudando para ser torna um desenvolver Full Stack, amo ser programar e tecnologia, Busco por uma oportunidade.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Deus+seja+louvado;Amém!;Bem-Vindo!;Olá,+Meu+nome+é+Fabrício+Castro;Tenho+36+anos;Resido+em+São+Paulo/SP;+Estudo+para+me+tornar+Full+Stack+:%29)](https://git.io/typing-svg)
 
 - 🤔 Busco ajuda por uma oportunidade
+<br>
  
-
 <div align="center">
   <a href="https://github.com/fabriciofcastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciofcastro&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciofcastro&layout=compact&langs_count=7&theme=darck"/>
 </div>
+ 
+ ![Contribução](https://activity-graph.herokuapp.com/graph?username=FabriciofCastro&theme=gotham&hide_border=true&area=true)
   
 <div style="display: inline_block">
   <br>
@@ -28,8 +28,8 @@ Atualmente estou estudando para ser torna um desenvolver Full Stack, amo ser pro
   <img align="right" alt="Fabricio-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/114f6746aeaae9f31165763ca91150a0e580a3720383ba1bf3813e18ffc1b390/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f63663230663161313861386139653639316538376239623337643238313661382f74756d626c725f6e323961346f4768326e31717a6131717a6f315f3530302e676966">
 </div>
 <br>
-
-<div> 
+<br>
+<div style="display: flex; justify-content: center;"> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -38,3 +38,11 @@ Atualmente estou estudando para ser torna um desenvolver Full Stack, amo ser pro
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+ 
+ <div align="center">
+  <br><p align="centre"><b>Contator de Visitas</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabricioCastro}/count.svg" /></p> 
+  <br>
+ </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
