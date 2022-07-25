@@ -22,7 +22,7 @@
   <img align="center" alt="Fabricio-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Fabricio-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Fabricio-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Fabricio-NextJs" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)">
+  <img align="center" alt="Fabricio-NextJs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
   <img align="center" alt="Fabricio-Material-UI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
  </div>
  <div>
