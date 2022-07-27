@@ -23,8 +23,6 @@
   <img align="center" alt="Fabricio-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Fabricio-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Fabricio-NextJs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
-  <img align="center" alt="Fabricio-MUI-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
-  <img align="center" alt="Fabricio-tailwindcss" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
   <img align="center" alt="Fabricio-materialAlize" height="30" width="40" src="https://iconape.com/wp-content/files/kq/352997/png/materialize-logo.png">
  </div>
  <div> 
