@@ -22,9 +22,12 @@
   <img align="center" alt="Fabricio-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Fabricio-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Fabricio-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Fabricio-NextJs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
+  <img align="center" alt="Fabricio-NextJs" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/c9c0cb655eaa23c6b678aadf7698db19acdc32c2/e3003/img/tech/nextjs.svg">
   <img align="center" alt="Fabricio-materialAlize" height="30" width="40" src="https://iconape.com/wp-content/files/kq/352997/png/materialize-logo.png">
+  <img align="center" alt="Fabricio-GraphQL" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/9dfc11f3415a34c8d942f5f86a90aef79d431ffa/a074c/img/tech/graphql.svg">
+   <img align="center" alt="Fabricio-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  </div>
+ 
  <div> 
    <img align="right" alt="Fabricio-pic" height="150" style="border-radius:50px;"   src="https://camo.githubusercontent.com/114f6746aeaae9f31165763ca91150a0e580a3720383ba1bf3813e18ffc1b390/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f63663230663161313861386139653639316538376239623337643238313661382f74756d626c725f6e323961346f4768326e31717a6131717a6f315f3530302e676966">
 </div>
