@@ -26,6 +26,7 @@
   <img align="center" alt="Fabricio-storyBook" height="30" width="40" src="https://raw.githubusercontent.com/pocka/storybook-addon-designs/HEAD/packages/assets/logo.png">
   <img align="center" alt="Fabricio-GraphQL" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/9dfc11f3415a34c8d942f5f86a90aef79d431ffa/a074c/img/tech/graphql.svg">
    <img align="center" alt="Fabricio-Strapi" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/47a156c37e9247659497b03f71ded2fda721764b/38c01/img/tech/strapi.svg">
+ <img align="center" alt="Fabricio-Strapi" height="30" width="40" src="https://styled-components.com/logo.png">
  </div>
  
  <div> 
