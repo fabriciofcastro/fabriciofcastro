@@ -49,7 +49,7 @@
  <div align="center">
   <br>
   <p align="centre"><b>Contator de Visitas</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabricioCastro}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" /></p> 
   <br>
  </div>
 
