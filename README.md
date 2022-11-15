@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01dfbf&size=50&center=true&vCenter=true&width=1000&lines=Deus+seja+louvado.+Amém!;Bem-Vindo!+Evoluir+é+uma+escolha;Olá!+Meu+nome+é+Fabrício+Castro;Tenho+36+anos;Resido+em+São+Paulo/SP;+:%29)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01dfbf&size=50&center=true&vCenter=true&width=1000&lines=Deus+seja+louvado.+Amém!;Bem-Vindo!+Evoluir+é+uma+escolha;Olá!+Meu+nome+é+Fabrício+Castro;Tenho+36+anos;Resido+em+São+Paulo/SP;+:%29)
 
 - 🤔 
 
