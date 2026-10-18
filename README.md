@@ -1,52 +1,74 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01dfbf&size=50&center=true&vCenter=true&width=1000&lines=Deus+seja+louvado.+Amém!;Bem-Vindo!+Evoluir+é+uma+escolha;Olá!+Meu+nome+é+Fabrício+Castro;Tenho+37+anos;Resido+em+São+Paulo/SP;+:%29)
-
-- 🤔 
-
-<br>
- 
 <div align="center">
-  <a href="https://github.com/fabriciofcastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciofcastro&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciofcastro&layout=compact&langs_count=7&theme=darck"/>
-</div>
- 
- ![Contribução](https://activity-graph.herokuapp.com/graph?username=FabriciofCastro&theme=gotham&hide_border=true&area=true)
-  <br>
-<div display="inline_block" align="center">
-  <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fabricio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Fabricio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fabricio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fabricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fabricio-NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  <img align="center" alt="Fabricio-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Fabricio-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Fabricio-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Fabricio-NextJs" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/c9c0cb655eaa23c6b678aadf7698db19acdc32c2/e3003/img/tech/nextjs.svg">
-  <img align="center" alt="Fabricio-storyBook" height="30" width="40" src="https://raw.githubusercontent.com/pocka/storybook-addon-designs/HEAD/packages/assets/logo.png">
-  <img align="center" alt="Fabricio-GraphQL" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/9dfc11f3415a34c8d942f5f86a90aef79d431ffa/a074c/img/tech/graphql.svg">
-   <img align="center" alt="Fabricio-Strapi" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/47a156c37e9247659497b03f71ded2fda721764b/38c01/img/tech/strapi.svg">
- <img align="center" alt="Fabricio-Strapi" height="30" width="40" src="https://styled-components.com/logo.png">
- </div>
- 
- <div> 
 
-   <img align="right" alt="Fabricio-pic" height="150" style="border-radius:50px;" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" target="_blank"  >
- 
-</div>
- </div>
-<br>
- 
-<div align="center"> 
+# Fabrício Castro
 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/fabriciofcastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  
-</div>
- 
- <div align="center">
-  <br>
- </div>
+**Desenvolvedor Front-end · React · Next.js · TypeScript**  
+*Engenharia de software · Aplicações Full Stack · Sistemas SaaS*
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+São Paulo, Brasil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciofcastro/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fabriciofcastro?tab=repositories)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ver_projetos-166534?style=flat-square&logo=vercel&logoColor=white)](https://fanpage-puce.vercel.app/)
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor de software com experiência profissional em desenvolvimento de interfaces para sistemas web, além de uma trajetória anterior em infraestrutura e suporte de TI.
+
+Meu foco é construir aplicações com **interfaces acessíveis, código sustentável e arquitetura orientada ao domínio**, aproximando problemas de negócio de soluções técnicas. Estudo e desenvolvo projetos com React, Next.js, TypeScript, NestJS e PostgreSQL, com interesse especial em produtos SaaS, sistemas empresariais e automação.
+
+- **Experiência profissional:** desenvolvimento de interfaces para uma plataforma LMS na Wikitec Tecnologia.
+- **Foco atual:** desenvolvimento Front-end, integração com APIs e engenharia de aplicações Full Stack.
+- **Interesses:** DDD, design systems, qualidade de software, arquitetura modular e IA aplicada a fluxos de trabalho.
+- **Objetivo:** colaborar em equipes de desenvolvimento e transformar requisitos reais em produtos úteis.
+
+## Tecnologias
+
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Front-end** | JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS |
+| **Back-end** | Node.js, NestJS, APIs REST, Prisma |
+| **Dados** | PostgreSQL |
+| **Ferramentas** | Git, GitHub, Docker, Vercel |
+| **Engenharia** | Design systems, arquitetura modular, DDD, acessibilidade e testes |
+
+> Esta lista reúne tecnologias utilizadas em projetos e áreas de estudo. Não representa certificações ou domínio avançado de todas elas.
+
+## Projetos selecionados
+
+### [Portfólio profissional](https://fanpage-puce.vercel.app/)
+
+Apresentação dos meus trabalhos, experiências e interesses em desenvolvimento de software, com atenção à identidade visual e experiência de navegação.
+
+**[Ver site](https://fanpage-puce.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/fabriciofcastro/)
+
+### [Galtec Engenharia — website institucional](https://github.com/fabriciofcastro/galtec-website)
+
+Projeto de website corporativo com foco em interface responsiva, organização de conteúdo, acessibilidade e SEO.
+
+**[Ver repositório](https://github.com/fabriciofcastro/galtec-website)**
+
+### ERP/CRM e sistemas empresariais
+
+Estudos e desenvolvimento de soluções com arquitetura modular, organização de domínios, gerenciamento de permissões e automação de processos. Alguns projetos podem ter acesso restrito por envolverem trabalho privado.
+
+## Como trabalho
+
+- **Requisitos antes de implementação:** entender o problema, os usuários e as restrições.
+- **Qualidade por construção:** componentes reutilizáveis, revisão de código e testes adequados.
+- **Arquitetura proporcional ao problema:** evitar complexidade sem justificativa técnica.
+- **Evolução contínua:** documentar decisões e melhorar o produto de forma incremental.
+
+## Contato
+
+Para oportunidades profissionais, colaboração ou projetos:
+
+**[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/fabriciofcastro/)** · **[Explore meus repositórios](https://github.com/fabriciofcastro?tab=repositories)**
+
+---
+
+<div align="center"><sub>Construindo software com propósito, consistência e atenção aos detalhes. 🇧🇷</sub></div>
