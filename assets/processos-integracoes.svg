@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
+<title id="title">Da análise à inovação</title><desc id="desc">Fluxo de trabalho: necessidades do negócio, análise de sistemas, integrações e automação, soluções internas.</desc>
+<rect width="1000" height="220" rx="14" fill="#0d1117"/>
+<g fill="none" stroke="#238636" stroke-width="2"><rect x="22" y="62" width="205" height="96" rx="10"/><rect x="272" y="62" width="205" height="96" rx="10"/><rect x="522" y="62" width="205" height="96" rx="10"/><rect x="772" y="62" width="205" height="96" rx="10"/></g>
+<g stroke="#3fb950" stroke-width="2" fill="none"><path d="M228 110h43m-9-7 9 7-9 7"/><path d="M478 110h43m-9-7 9 7-9 7"/><path d="M728 110h43m-9-7 9 7-9 7"/></g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#e6edf3" font-size="18" font-weight="600"><text x="124" y="103">Necessidades</text><text x="124" y="126">do negócio</text><text x="374" y="103">Análise</text><text x="374" y="126">de sistemas</text><text x="624" y="103">Integrações</text><text x="624" y="126">e automação</text><text x="874" y="103">Soluções</text><text x="874" y="126">internas</text></g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#8b949e" font-size="13"><text x="500" y="33">TECNOLOGIA APLICADA A PROCESSOS REAIS</text><text x="500" y="193">Análise • Engenharia de software • IA aplicada com responsabilidade</text></g>
+</svg>

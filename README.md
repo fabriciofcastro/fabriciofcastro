@@ -2,8 +2,8 @@
 
 # Fabrício Castro
 
-**Desenvolvedor Front-end · React · Next.js · TypeScript**  
-*Engenharia de software · Aplicações Full Stack · Sistemas SaaS*
+**Analista de Sistemas · Desenvolvedor Front-end / Full Stack**  
+*React · Next.js · TypeScript · NestJS · Integrações e automação com IA*
 
 São Paulo, Brasil
 
@@ -17,14 +17,31 @@ São Paulo, Brasil
 
 ## Sobre mim
 
-Sou desenvolvedor de software com experiência profissional em desenvolvimento de interfaces para sistemas web, além de uma trajetória anterior em infraestrutura e suporte de TI.
+Sou **Analista de Sistemas na [Morina](https://morinaoficial.com.br/)**, onde atuo há aproximadamente dois anos no desenvolvimento de soluções internas para apoiar a operação da empresa, otimizar processos e integrar informações e ferramentas.
 
-Meu foco é construir aplicações com **interfaces acessíveis, código sustentável e arquitetura orientada ao domínio**, aproximando problemas de negócio de soluções técnicas. Estudo e desenvolvo projetos com React, Next.js, TypeScript, NestJS e PostgreSQL, com interesse especial em produtos SaaS, sistemas empresariais e automação.
+Minha atuação combina **análise de necessidades do negócio, desenvolvimento de software, automação e integração de inteligência artificial**. Procuro identificar problemas recorrentes e propor soluções tecnológicas sustentáveis, com atenção à manutenção, à confiabilidade e à utilidade para as pessoas que utilizam os sistemas.
 
-- **Experiência profissional:** desenvolvimento de interfaces para uma plataforma LMS na Wikitec Tecnologia.
-- **Foco atual:** desenvolvimento Front-end, integração com APIs e engenharia de aplicações Full Stack.
-- **Interesses:** DDD, design systems, qualidade de software, arquitetura modular e IA aplicada a fluxos de trabalho.
-- **Objetivo:** colaborar em equipes de desenvolvimento e transformar requisitos reais em produtos úteis.
+Tenho também experiência profissional no desenvolvimento de interfaces para uma plataforma LMS na Wikitec Tecnologia e uma trajetória anterior em infraestrutura, suporte técnico e gestão operacional. Essa combinação me ajuda a compreender tanto a implementação quanto o contexto real de uso das soluções.
+
+Meu foco técnico inclui React, Next.js, TypeScript, NestJS e PostgreSQL, além de arquitetura modular, design systems e aplicações empresariais.
+
+## Experiência atual
+
+### Analista de Sistemas · [Morina](https://morinaoficial.com.br/)
+
+**Atuação atual · aproximadamente 2 anos**
+
+- Analiso necessidades e fluxos de trabalho para identificar oportunidades de melhoria nos processos internos.
+- Desenvolvo e aprimoro soluções utilizadas internamente, buscando reduzir atividades manuais e retrabalho.
+- Trabalho na integração de sistemas, informações e ferramentas para apoiar a continuidade dos processos.
+- Exploro e aplico automação e inteligência artificial a problemas concretos do ambiente operacional.
+- Contribuo com propostas de inovação tecnológica, avaliando a viabilidade e a manutenção das soluções.
+
+Meu compromisso é **transformar necessidades operacionais em soluções úteis, integradas e responsáveis**, sem confundir inovação com complexidade desnecessária.
+
+<div align="center">
+  <img src="assets/processos-integracoes.svg" alt="Fluxo de trabalho: necessidades do negócio, análise de sistemas, integrações e automação, soluções internas" width="100%" />
+</div>
 
 ## Fé e propósito
 
