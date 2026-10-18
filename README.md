@@ -26,6 +26,10 @@ Meu foco é construir aplicações com **interfaces acessíveis, código sustent
 - **Interesses:** DDD, design systems, qualidade de software, arquitetura modular e IA aplicada a fluxos de trabalho.
 - **Objetivo:** colaborar em equipes de desenvolvimento e transformar requisitos reais em produtos úteis.
 
+## Fé e propósito
+
+**Minha fé em Deus é o fundamento da minha vida.** Nele encontro meu Pai, meu mentor e a força que me sustentou nos momentos mais difíceis. Tenho profunda gratidão por Seu amor e Sua misericórdia; reconheço que é pela graça de Deus que hoje posso exercer a profissão de desenvolvedor. Procuro honrá-Lo também no meu trabalho, com dedicação, integridade e responsabilidade.
+
 ## Tecnologias
 
 | Área | Tecnologias e práticas |
