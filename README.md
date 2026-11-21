@@ -77,6 +77,20 @@ Projeto de website corporativo com foco em interface responsiva, organização d
 
 Estudos e desenvolvimento de soluções com arquitetura modular, organização de domínios, gerenciamento de permissões e automação de processos. Alguns projetos podem ter acesso restrito por envolverem trabalho privado.
 
+## Meu prédio no Git City
+
+Minhas contribuições no GitHub transformadas em um prédio em pixel art.
+
+<p align="center">
+  <a href="https://www.thegitcity.com/dev/fabriciofcastro">
+    <img src="https://www.thegitcity.com/api/share-card/fabriciofcastro?format=landscape&amp;lang=pt" alt="Prédio de fabriciofcastro no Git City, com estatísticas das contribuições no GitHub" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.thegitcity.com/dev/fabriciofcastro">Explore meu prédio no Git City</a>
+</p>
+
 ## Como trabalho
 
 - **Requisitos antes de implementação:** entender o problema, os usuários e as restrições.
